@@ -9,7 +9,7 @@
 </p>
 
 # 💫 About Me:
-- Ingeniero de software apasionado por el desarrollo de soluciones eficientes y escalables.<br>- Experiencia trabajando con tecnologías como .NET y Java.<br>- Interés constante en aprender nuevas herramientas y buenas prácticas de desarrollo.<br>- Amante del cine, el deporte y la tecnología.<br>- Siempre buscando mejorar mis habilidades y aportar valor a cada proyecto.
+- Software engineer passionate about developing efficient and scalable solutions.<br>- Experience working with technologies such as .NET and Java.<br>- Constant interest in learning new tools and best development practices.<br>- Enthusiast of cinema, sports, and technology.<br>- Always looking to improve my skills and add value to every project.
 
 
 # 💻 Tech Stack:
